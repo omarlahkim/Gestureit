@@ -1,0 +1,30 @@
+{
+  "0": {
+    "name": "MUTE",
+    "gesture": "0"
+  },
+  "1": {
+    "name": "VOLUME_UP",
+    "gesture": "1"
+  },
+  "2": {
+    "name": "VOLUME_DOWN",
+    "gesture": "2"
+  },
+  "3": {
+    "name": "OPEN_SAFARI",
+    "gesture": "3"
+  },
+  "4": {
+    "name": "EMPTY_TRASH",
+    "gesture": "4"
+  },
+  "5": {
+    "name": "SHUTDOWN",
+    "gesture": "5"
+  },
+  "6": {
+    "name": "NONE",
+    "gesture": "6"
+  }
+}
